@@ -77,5 +77,5 @@ Page 2 – Credit Card Transaction Report
 
 
 🖼️ Screenshots
-Page 1-
-Page 2-
+Page 1- https://github.com/aarushj252gmailcom/Credit_card_details/blob/main/Credit_card_customer%20.png
+Page 2- https://github.com/aarushj252gmailcom/Credit_card_details/blob/main/Credit_card_transaction.png
